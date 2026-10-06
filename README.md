@@ -1,6 +1,6 @@
 # PULSE: Prototype-Based Latent Surprise Detects Physics Anomalies
 
-This is the official GitHub repository for **PULSE** (Prototype-Based Latent Surprise Detects Physics Anomalies). 
+This is the official GitHub repository for **PULSE**.
 
 ## 🚀 Code Coming Soon!
 
